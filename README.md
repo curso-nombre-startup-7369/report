@@ -141,6 +141,13 @@
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+##### HOW MUCH (CUÁNTO)  
+- **¿Cuánto mejora el producto la situación actual?**  
+FoodStock reduce de manera considerable el tiempo invertido en tareas manuales, minimiza errores, evita duplicidad de información y facilita la planificación del negocio con datos confiables.  
+
+- **¿Qué beneficios se obtienen al digitalizar y automatizar?**  
+Mayor eficiencia operativa, reducción de costos, mejor trazabilidad del inventario, control de stock más preciso,  atención al cliente más ágil y profesional.
+
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores
 ### 2.2. Entrevistas
