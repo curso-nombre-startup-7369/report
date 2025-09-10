@@ -218,7 +218,8 @@ Estas limitaciones se traducen en consecuencias directas: duplicidad de esfuerzo
 - ¿De qué manera incrementar la motivación y retención de los voluntarios?  
 - ¿Cómo evitar la pérdida de datos y fortalecer la transparencia de los proyectos sociales?  
 - ¿Qué estrategias permiten dar mayor visibilidad a las iniciativas comunitarias?  
-- ¿Cómo facilitar el acceso de nuevas personas al voluntariado mediante un sistema confiable y accesible? 
+- ¿Cómo facilitar el acceso de nuevas personas al voluntariado mediante un sistema confiable y accesible?
+  
 ##### 1.2.2.2. Lean UX Assumptions
 
 **Business Assumptions**  
@@ -232,7 +233,7 @@ Estas limitaciones se traducen en consecuencias directas: duplicidad de esfuerzo
 - El modelo de negocio estará basado en suscripciones mensuales con planes escalables.  
 - La competencia incluye herramientas genéricas de gestión de proyectos (Trello, Asana, Google Sheets), pero VolunPath se diferenciará por estar diseñado específicamente para el voluntariado.  
 - El mayor riesgo es que las organizaciones no perciban valor suficiente para pagar una suscripción; se mitigará con un plan gratuito básico y demostraciones de impacto.
-- 
+
 **User Assumptions**
   
 - ¿Quién es el usuario? Coordinadores de voluntariado y líderes de ONGs.  
@@ -244,6 +245,24 @@ Estas limitaciones se traducen en consecuencias directas: duplicidad de esfuerzo
 
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hipótesis 01**  
+Creemos que las organizaciones sociales mejorarán la coordinación de sus proyectos si utilizan una plataforma que centralice tareas, roles y calendarios.  
+Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios registren y gestionen actividades directamente en VolunPath durante el primer mes.  
+
+**Hipótesis 02**  
+Creemos que los voluntarios estarán más motivados y activos si cuentan con un sistema que muestre sus tareas, logros e impacto en la comunidad.  
+Sabremos que hemos tenido éxito cuando la retención de voluntarios activos aumente un 20% tras 3 meses de uso.  
+
+**Hipótesis 03**  
+Creemos que las organizaciones atraerán a más personas si sus proyectos son visibles públicamente a través de la plataforma.  
+Sabremos que hemos tenido éxito cuando el número de voluntarios nuevos aumente un 30% respecto a los métodos tradicionales.  
+
+**Hipótesis 04**  
+Creemos que la adopción de la plataforma será mayor si ofrecemos un plan gratuito básico con funciones esenciales y planes de pago escalables para organizaciones más grandes.  
+Sabremos que hemos tenido éxito cuando al menos el 25% de los usuarios gratuitos migren a un plan de pago en los primeros seis meses.  
+
+
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
 
