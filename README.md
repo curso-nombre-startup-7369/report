@@ -143,6 +143,71 @@ Ser reconocidos como un startup líder en América Latina en el desarrollo de pl
 #### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
+El voluntariado ha representado a lo largo del tiempo una de las expresiones más significativas de la participación ciudadana, aportando al progreso social, al apoyo de comunidades en situación de vulnerabilidad y al fortalecimiento de la cultura solidaria. No obstante, en la actualidad numerosas organizaciones enfrentan serias complicaciones para coordinar y sostener sus programas. Entre las principales dificultades se encuentran la carencia de recursos suficientes para una gestión adecuada, la escasa visibilidad de sus iniciativas, la falta de estrategias efectivas para captar nuevos voluntarios y la ausencia de procedimientos claros para asignar funciones y responsabilidades. Estas deficiencias ocasionan una menor eficiencia, desánimo entre los participantes y una disminución en el verdadero impacto que los proyectos sociales podrían alcanzar.  
+ 
+
+### 5W + 2H – VolunPath  
+
+#### **WHAT (QUÉ)**  
+**¿Cuál es el problema?**  
+Las organizaciones sociales y de voluntariado experimentan serias dificultades para coordinar, organizar y dar seguimiento a sus actividades. La mayoría depende de registros manuales o de herramientas aisladas (como hojas de cálculo, correos electrónicos o redes sociales), lo que genera desorganización, pérdida de información y poca visibilidad de sus proyectos.  
+
+**¿Qué consecuencias tiene?**  
+Esto limita la eficiencia de los programas, complica la atracción y retención de voluntarios, desmotiva la participación, genera duplicidad de esfuerzos y reduce el impacto real en las comunidades beneficiadas.  
+
+
+#### **WHEN (CUÁNDO)**  
+**¿Cuándo sucede el problema?**  
+Cada vez que las organizaciones intentan gestionar tareas, roles, calendarios o presupuestos sin contar con herramientas centralizadas. También al difundir iniciativas de voluntariado y no lograr alcanzar suficiente audiencia o confianza entre los potenciales voluntarios.  
+
+**¿Cuándo utiliza el cliente el producto?**  
+La plataforma se usaría de manera continua, en cualquier momento que la organización necesite coordinar proyectos, registrar actividades, asignar voluntarios o dar a conocer sus campañas sociales.  
+
+#### **WHERE (DÓNDE)**  
+**¿Dónde se presenta el problema?**  
+En ONGs, fundaciones, colectivos comunitarios y asociaciones que operan en ámbitos como salud, educación, medio ambiente o asistencia social. El problema es más evidente en regiones como América Latina, donde los procesos de digitalización en el sector social aún son limitados.  
+
+**¿Dónde se usa el producto?**  
+VolunPath puede ser utilizado desde cualquier dispositivo con conexión a internet, ya sea en oficinas institucionales, centros comunitarios o de manera remota, facilitando la gestión de equipos distribuidos.  
+
+#### **WHO (QUIÉN)**  
+**¿Quién tiene este problema?**  
+Las entidades sociales que requieren optimizar la coordinación de sus programas y los voluntarios que desean participar, pero carecen de información clara y espacios organizados para integrarse.  
+
+**¿Quién se beneficia del producto?**  
+- Las organizaciones sociales, al mejorar su gestión interna.  
+- Los voluntarios, al acceder a oportunidades claras y confiables.  
+- Las comunidades, al recibir un apoyo más eficiente y con mayor impacto.  
+
+
+
+#### **WHY (POR QUÉ)**  
+**¿Por qué ocurre el problema?**  
+Porque muchas organizaciones sociales carecen de recursos para invertir en herramientas especializadas y siguen utilizando procesos manuales o soluciones poco adaptadas a sus necesidades.  
+
+**¿Por qué es importante resolverlo?**  
+Porque modernizar la gestión del voluntariado permite fortalecer la participación ciudadana, fomentar la confianza y aumentar el impacto de los proyectos sociales.  
+
+Como señala la *Plataforma del Voluntariado de España (2023)*, uno de los principales desafíos actuales es avanzar hacia modelos de gestión más innovadores que logren atraer a nuevas generaciones de voluntarios.  
+
+
+
+#### **HOW (CÓMO)**  
+**¿Cómo soluciona el producto el problema?**  
+VolunPath actúa como un espacio digital integral que centraliza la organización de roles, tareas, calendarios y presupuestos, al mismo tiempo que facilita la difusión de proyectos y la visibilidad de las iniciativas.  
+
+De este modo, promueve la transparencia, la confianza y una colaboración más efectiva entre voluntarios y organizaciones.  
+
+
+#### **HOW MUCH (CUÁNTO)**  
+**¿Cuánto mejora el producto la situación actual?**  
+La implementación de la plataforma disminuye significativamente el tiempo invertido en gestiones manuales, reduce los errores y pérdidas de información, mejora la comunicación y aumenta la eficiencia en la ejecución de los proyectos.  
+
+**¿Qué beneficios se obtienen?**  
+Un mayor orden interno, más motivación en los voluntarios, la capacidad de llegar a un número más amplio de personas interesadas y, como resultado, un impacto social más fuerte y sostenible.  
+ 
+
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
