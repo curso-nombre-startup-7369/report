@@ -224,6 +224,26 @@ Estas limitaciones se traducen en consecuencias directas: duplicidad de esfuerzo
 - ¿Cómo facilitar el acceso de nuevas personas al voluntariado mediante un sistema confiable y accesible? 
 
 ##### 1.2.2.2. Lean UX Assumptions
+**Business Assumptions**  
+- Existe una necesidad creciente de profesionalizar la gestión del voluntariado en organizaciones sociales.  
+- Una plataforma integral que centralice roles, tareas, calendarios y comunicación puede resolver estas necesidades.  
+- Los primeros clientes serán ONGs pequeñas y medianas, así como colectivos comunitarios que aún dependen de procesos manuales.  
+- El valor principal buscado es una herramienta que ahorre tiempo, reduzca la desorganización y aumente la participación de los voluntarios.  
+- Entre los beneficios adicionales destacan: mayor visibilidad de proyectos, reportes automáticos y transparencia en la comunicación.  
+- La adquisición de clientes se logrará a través de alianzas con redes de voluntariado, marketing digital y recomendaciones entre organizaciones.  
+- El modelo de negocio estará basado en suscripciones mensuales con planes escalables.  
+- La competencia incluye herramientas genéricas de gestión de proyectos (Trello, Asana, Google Sheets), pero VolunPath se diferenciará por estar diseñado específicamente para el voluntariado.  
+- El mayor riesgo es que las organizaciones no perciban valor suficiente para pagar una suscripción; se mitigará con un plan gratuito básico y demostraciones de impacto.  
+
+**User Assumptions**  
+- ¿Quién es el usuario? Coordinadores de voluntariado y líderes de ONGs.  
+- ¿Qué problemas resuelve? Falta de organización, pérdida de datos, baja retención de voluntarios y escasa visibilidad de actividades.  
+- ¿Qué características son importantes? Interfaz simple, registro rápido de actividades, reportes automáticos y comunicación integrada.  
+- ¿Dónde encaja en su vida/trabajo? Como herramienta central para coordinar voluntarios y proyectos.  
+- ¿Cuándo y cómo se usa? A diario para asignar tareas; semanalmente para seguimiento; mensualmente para reportes de impacto.  
+- ¿Cómo debe comportarse? Con un diseño intuitivo, notificaciones claras, acceso desde cualquier dispositivo y soporte colaborativo.  
+
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
